@@ -1,11 +1,9 @@
-![Loan Origination Reform](assets/loan-origination-reform-full.jpg)
-
 # Loan Origination Reform
 ### Product & Process Reform
 
 > Rebuilding a legacy, sequential closing process into a parallelized, cloud-based, configurable system — cutting time-to-close from 15+ days to 5 without weakening compliance.
 
-![Timeline](https://img.shields.io/badge/Time--to--Close-15%2B%20Days%20→%205%20Days-2D5F4C?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Loan%20Origination-1A2332?style=flat-square)
+# ![Timeline](https://img.shields.io/badge/Time--to--Close-15%2B%20Days%20→%205%20Days-2D5F4C?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Loan%20Origination-1A2332?style=flat-square)
 
 | ENGINEERING | PRODUCT | QA | DOMAIN |
 |:---:|:---:|:---:|:---:|
